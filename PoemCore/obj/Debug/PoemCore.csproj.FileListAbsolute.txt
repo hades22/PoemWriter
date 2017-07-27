@@ -1,0 +1,8 @@
+D:\Code\Poem\PoemCore\PoemCore\bin\Debug\PoemCore.dll
+D:\Code\Poem\PoemCore\PoemCore\bin\Debug\PoemCore.pdb
+D:\Code\Poem\PoemCore\PoemCore\obj\Debug\PoemCore.dll
+D:\Code\Poem\PoemCore\PoemCore\obj\Debug\PoemCore.pdb
+D:\Code\Poem\Poem\PoemCore\bin\Debug\PoemCore.dll
+D:\Code\Poem\Poem\PoemCore\bin\Debug\PoemCore.pdb
+D:\Code\Poem\Poem\PoemCore\obj\Debug\PoemCore.dll
+D:\Code\Poem\Poem\PoemCore\obj\Debug\PoemCore.pdb
